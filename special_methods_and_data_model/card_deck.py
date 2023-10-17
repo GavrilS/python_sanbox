@@ -35,3 +35,23 @@ if __name__=='__main__':
     from random import choice
     for i in range(5):
         print(choice(deck))
+
+    # supports slicing
+    print('deck[:3]: ', deck[:3])
+
+    # is iterable
+    print('is iterable***')
+    counter = 0
+    for card in deck:
+        counter += 1
+        print(card)
+        if counter > 10:
+            break
+    print('in reverse with __reversed__ special method implementation***')
+    for card in reversed(deck):
+        counter += 1
+        print(card)
+        if counter > 20:
+            break
+    # works with the in operator
+    print('Card("A", "spades") in deck', Card("A", "spades") in deck)
