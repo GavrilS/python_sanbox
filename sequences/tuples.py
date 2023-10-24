@@ -91,24 +91,10 @@ def slices_ex():
     print('l[2:5] = [100] -> ', l) 
 
 
-def in_place_operations_on_lists():
-    l = [1, 2, 3]
-    print('id(l): ', id(l))
-    l *= 2
-    print('l*=2 -> ', l)
-    print('id(l): ', id(l))
-    t = (1, 2, 3)
-    print('id(t): ', id(t))
-    t *= 2
-    print('t *= 2 -> ', t)
-    print('id(t): ', id(t))
-
-
 
 
 if __name__=='__main__':
-    # tuples_as_records()
-    # tuple_unpacking()
-    # namedtuple_ex()
-    # slices_ex()
-    in_place_operations_on_lists()
+    tuples_as_records()
+    tuple_unpacking()
+    namedtuple_ex()
+    slices_ex()
