@@ -25,6 +25,29 @@ def cartesian_product_with_listcomp():
     print('tshirts by size/color: ', tshirts2)
 
 
+def in_place_operations_on_lists():
+    l = [1, 2, 3]
+    print('id(l): ', id(l))
+    l *= 2
+    print('l*=2 -> ', l)
+    print('id(l): ', id(l))
+    t = (1, 2, 3)
+    print('id(t): ', id(t))
+    t *= 2
+    print('t *= 2 -> ', t)
+    print('id(t): ', id(t))
+
+
+def list_sorting():
+    fruits = ['grape', 'raspberry', 'apple', 'banana']
+    print('sorted: ', sorted(fruits))
+    print('reverse: ', sorted(fruits, reverse=True))
+    print('sorted by len: ', sorted(fruits, key=len))
+    print('sorted by len in reverse: ', sorted(fruits, key=len, reverse=True))
+
+
 if __name__=='__main__':
     list_comprehension()
     cartesian_product_with_listcomp()
+    in_place_operations_on_lists()
+    list_sorting()
