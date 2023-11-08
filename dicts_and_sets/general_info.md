@@ -20,3 +20,8 @@ d.setdefault(k, [default])
 d.__setitem__(k, v)
 d.update(m, [**kargs])
 d.values()
+
+
+# Mappings with Flexible Key Lookup:
+- collections.defaultdict
+- the __missing__ method(if implemented can provide more flexible implementation) on a custom dict class
