@@ -32,3 +32,5 @@ if __name__=='__main__':
     res3 = clip(test, -1)
     print('res3: ', res3)
     print('*'*40)
+
+    print('clip.__annotations__: ', clip.__annotations__)
