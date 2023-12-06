@@ -15,3 +15,12 @@ def target():
     print('running target()')
 
 target = decorate(target)
+
+
+# Important decorator facts:
+1. They can replace the decorated function with a different one
+2. They are executed immediately when a module is loaded
+
+# Usage(points to remember):
+- A decorator is usually defined in one module and applied to functions in other modules
+- Most decorators don't return the function passed as arguments; they usually define an inner function that is than returned
