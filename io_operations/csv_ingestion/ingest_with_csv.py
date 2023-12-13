@@ -20,6 +20,21 @@ def read_csv():
         print(f'Number of processed lines: {line_count}')
 
 
+def reading_csv_dict():
+    with open(TEST_FILE, mode='r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        line_count = 0
+        for row in csv_reader:
+            if line_count == 0:
+                print(f'Column names are {" : ".join(row)}')
+            else:
+                print(f'{row["type"]} : {row["group"]} : {row["category"]} : {row["code"]}')
+            
+            line_count += 1
+
+        print(f'Number of processed lines: {line_count}')
+
 
 if __name__=='__main__':
     read_csv()
+    # reading_csv_dict()
