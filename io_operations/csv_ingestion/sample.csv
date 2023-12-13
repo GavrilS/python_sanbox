@@ -1,0 +1,1081 @@
+type,group,category,code
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
+server,[10001; 10002; 10006; 10004; 10005],base,SB
+server,[10001; 10002; 10007; 10004; 10005],list,SL
+server,[10001; 10002; 10003; 10004; 10005],standard,SS
+server,[10001; 10002; 10003; 10004; 10005],basic,SB
+url,[17001; 17062],list,UL
+url,[17066; 17062],base,UB
+url,[17065; 17062],standard,US
+url,[17064; 17062],list,UL
