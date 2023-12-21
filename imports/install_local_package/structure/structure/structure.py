@@ -6,9 +6,11 @@ import pathlib
 import sys
 
 # Works when ran directly with the above command, but does not work when ran from a script from outside the package
-import files
+# import files
 # Works when ran from a script from outside the package, but does not work when run directly with above command
 # from . import files
+# If we install the package with pip as a local package we can do this:
+from structure import files
 
 
 def main():
