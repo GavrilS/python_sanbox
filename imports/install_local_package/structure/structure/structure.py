@@ -9,8 +9,7 @@ import sys
 # import files
 # Works when ran from a script from outside the package, but does not work when run directly with above command
 # from . import files
-# If we install the package with pip as a local package we can do this:
-from structure import files
+# If we install the package with pip as a local package we can do the imports as shown at the bottom
 
 
 def main():
@@ -36,4 +35,7 @@ def main():
 
 
 if __name__=='__main__':
+    import files
     main()            
+else:
+    from structure import files
