@@ -1,7 +1,14 @@
+"""
+Test command: 
+python3 imports/install_local_package/structure/structure/structure.py ./imports/install_local_package/structure/structure/
+"""
 import pathlib
 import sys
 
+# Works when ran directly with the above command, but does not work when ran from a script from outside the package
 import files
+# Works when ran from a script from outside the package, but does not work when run directly with above command
+# from . import files
 
 
 def main():
