@@ -15,22 +15,44 @@ class Vector:
         return (i for i in (self.x, self.y))
 
     def __repr__(self):
-        # returns the representation of the object; since Vector is iterable *self fieds its components to format
+        # returns the representation of the object; since Vector is iterable *self feeds its components to format
         class_name = type(self).__name__
-        return '{}({!r}, {!r})'.format(class_name, *self) #
+        return '{}({!r}, {!r})'.format(class_name, *self)
 
     def __str__(self):
-        return str(tuple(self)) #
+        # from iterable type, it is easy to build a tuple for display as an ordered pair
+        return str(tuple(self))
 
     def __bytes__(self):
+        # to generate bytes we convert the typecode to bytes and concatenate bytes converted from an array
+        # built by iterating over the instance
         return (bytes([ord(self.typecode)]) +
                 bytes(array(self.typecode, self))) 
 
     def __eq__(self, other):
+        # to quickly compare all components, we build tuples out of the operands; has issues: it will return 
+        # True when comparing Vector(3, 4) == [3, 4]
         return tuple(self) == tuple(other)
 
     def __abs__(self):
         return math.hypot(self.x, self.y)
 
     def __bool__(self):
+        # we are using abs(self) to compute the magnituted, then convert it to bool, so 0.0 is False, non 0 is True
         return bool(abs(self))
+
+
+if __name__=='__main__':
+    v1 = Vector(3, 4)
+    print(f"v1.x - {v1.x}, v1.y - {v1.y}")
+    x, y = v1
+    print(f"{x}, {y}")
+    print('v1: ', v1)
+    v1_clone = eval(repr(v1))
+    print('v1_clone: ', v1_clone)
+    print('v1 == v1_clone: ', v1 == v1_clone)
+    print('v1: ', v1)
+    octets = bytes(v1)
+    print('octets: ', octets)
+    print('abs(v1): ', abs(v1))
+    print(f"bool(v1) - {bool(v1)}, bool(Vector(0, 0) - {bool(Vector(0,0))})")
