@@ -79,3 +79,13 @@ if __name__=='__main__':
     print('hash(v1): ', hash(v1))
     print('hash(v2): ', hash(v2))
     print('set([v1, v2]): ', set([v1, v2]))
+    print('*'*40)
+    # Example of name mangling: when you name an instance variable with 2 leading _ - __x, python will 
+    # store the name in the instance __dict__ prefixed with the name of the class with a leading _
+    # This feature is a safety device, not a security one: like a switch cover, it protects you from
+    # accidental access, but cannot stop intentional behaviour
+    print('v1.__dict__: ', v1.__dict__)
+    print('v2.__dict__: ', v2.__dict__)
+    print('v1._Vector__x: ', v1._Vector__x)
+    v1._Vector__x = 10
+    print('v1._Vector__x: ', v1._Vector__x)
