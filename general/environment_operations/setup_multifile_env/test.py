@@ -1,11 +1,14 @@
 import os
 
+ENVIRONMENT_STATUS_UPDATE = 'The environment status was changed!'
+
 def test():
     CMD_STATUS = os.getenv('CMD_STATUS', 'false')
     print('CMD_STATUS: ', CMD_STATUS)
 
     if CMD_STATUS != 'true':
         os.environ['CMD_STATUS'] = 'true'
+        print(ENVIRONMENT_STATUS_UPDATE)
     else:
         os.environ['CMD_STATUS'] = 'not true'
 
