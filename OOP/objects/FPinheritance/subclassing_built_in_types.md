@@ -1,0 +1,1 @@
+# It is not a good idea to subclass built in types as the code of the build in types does not call the special methods of the child class, but instead work with the code of the special methods defined in the parent class. This is a big no-no, because your class is loosing some or all of its special functionality, making the inheritance moot.
