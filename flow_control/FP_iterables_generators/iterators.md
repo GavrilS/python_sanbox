@@ -18,10 +18,3 @@
     - Iterators Definition: any object that implements the __next__ no argument method that returns the next item in a series or raises StopIteration when there are no more items. Python iterators also implement the __iter__ method which means they are iterable as well.
 
 !!! Iterables should never act as iterators for themselves. In other words implement the __iter__ method for an iterable, but don't implement __next__. The __iter__ method should return an iterator of the iterable. Iterators should implement the __next__ method and also the __iter__ method, which means that iterators are also iterable. The __iter__ method of an iterator should just return self. -> CLASSIC ITERATOR PATTERN
-
-# Generators:
-* Every generator is an iterator. They fully implement the iterator interface. But while an iterator retrieves items from a collection, a generator can produce them out of 'thin air'. Generators are iterators that produce the values of the expresions passed to yield.
-
-** Generator functions:
-    - Any python function that has the yield keyword in its body is a generator function. This is a function which, when called returns a generator object; in other words it is a generator factory.
-    - When we call next() on a generator object, execution advances to the next yield keyword in the function's body. When there are no more yield statements to go over and the function body returns, the enclosing generator raises StopIteration in accordance with the Iterator protocol.
