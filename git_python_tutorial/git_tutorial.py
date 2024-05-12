@@ -21,12 +21,51 @@ def get_heads(repo):
 def get_head_commit(head):
     print(head.commit)
 
+
 def get_remote_info(remote):
     print('--------------------')
     print('Fetching remote info')
     fetch_info = remote.fetch()
-    print(type(fetch_info))
-    print(fetch_info)
+    # print(type(fetch_info))
+    # print(fetch_info)
+    # print('DEtails about the fetch:')
+    # for details in fetch_info:
+    #     print(details)
+    #     print('-'*50)
+    # print(fetch_info[0].commit)
+    return fetch_info[0]
+
+
+def check_commits(local_head, remote):
+    commit = local_head.commit
+    print('Local head commit: ', commit)
+    print('*^-^*')
+    print("\"{}\" by {} ({})".format(
+        commit.summary,
+        commit.author.name,
+        commit.author.email
+    ))
+
+    print(str(commit.authored_datetime))
+    print(str("count: {} and size: {}".format(
+        commit.count(),
+        commit.size
+    )))
+    print('^'*10)
+    commit = remote.commit
+    print('Remote commit: ', remote.commit)
+    print('*^-^*')
+    print("\"{}\" by {} ({})".format(
+        commit.summary,
+        commit.author.name,
+        commit.author.email
+    ))
+
+    print(str(commit.authored_datetime))
+    print(str("count: {} and size: {}".format(
+        commit.count(),
+        commit.size
+    )))
 
 
 if __name__=='__main__':
@@ -37,8 +76,9 @@ if __name__=='__main__':
         print('Repo at {} successfully loaded.'.format(repo_path))
         head = get_heads(repo)
         get_head_commit(head)
-        remote = Remote(repo, str(head))
+        remote = Remote(repo, 'origin')
         print('Remote: ', remote)
-        get_remote_info(remote)
+        remote_info = get_remote_info(remote)
+        check_commits(head, remote_info)
     else:
         print('Could not load repository at {}.'.format(repo_path))
