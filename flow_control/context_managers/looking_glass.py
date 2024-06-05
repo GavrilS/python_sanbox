@@ -36,3 +36,13 @@ if __name__=='__main__':
     
     print('After the exit method is called on the context manager!')
     print(lg)
+
+    # Example of how it works when not using 'with':
+    print('----------------------------')
+    manager = LookingGlass()
+    test = manager.__enter__()
+    print('Love learning we do!')
+    print(test)
+    manager.__exit__(None, None, None)
+    print('After closing the context manager!')
+    print(test)
