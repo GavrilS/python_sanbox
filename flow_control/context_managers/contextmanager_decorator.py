@@ -15,10 +15,14 @@ def looking_glass():
         original_write(text[::-1])
 
     sys.stdout.write = reverse_write
-
-    yield 'JABBERWABBER'
-
-    sys.stdout.write = original_write
+    try:
+        yield 'JABBERWABBER'
+    except ZeroDivisionError:
+        msg = 'Please DO NOT devide by zero.'
+    finally:
+        sys.stdout.write = original_write
+        if msg:
+            print(msg)
 
 
 if __name__=='__main__':
