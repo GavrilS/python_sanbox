@@ -13,3 +13,5 @@ yield doesn't necessarily produce a value, but can get a value from the client w
 The send() method can only be used when a coroutine reaches the 'yield' keyword, so the first call to a coroutine after it is created should always be next() or send(None) to activate the coroutine and make it
 reach the 'yield' expression. If we use send(some_value) before a coroutine reaches the 'yield' expr. it will
 raise an error.
+
+# Syntax for handling subgenerators - yield from
