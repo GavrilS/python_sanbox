@@ -13,6 +13,7 @@ Parameters to run the simulation:
 """
 import simpy
 import random
+import statistics
 
 
 wait_times = []
@@ -51,15 +52,15 @@ def go_to_movies(env, moviegoer, cinema):
         yield env.process(cinema.check_ticket(moviegoer))
     
     if random.choice([True, False]):
-        with cinema.food_server.requst() as request:
+        with cinema.food_server.request() as request:
             yield request
             yield env.process(cinema.purchase_food(moviegoer))
 
     wait_times.append(env.now - arrival_time)
 
 
-def run_cinema(env, num_cashiers, num_ushers, num_food_sellers):
-    cinema = Cinema(num_cashiers, num_ushers, num_food_sellers)
+def run_cinema(env, num_cashiers, num_ushers, num_food_sellers, num_available_seats):
+    cinema = Cinema(env, num_cashiers, num_ushers, num_food_sellers)
 
     for moviegoer in range(3):
         env.process(go_to_movies(env, moviegoer, cinema))
@@ -69,3 +70,47 @@ def run_cinema(env, num_cashiers, num_ushers, num_food_sellers):
 
         moviegoer += 1
         env.process(go_to_movies(env, moviegoer, cinema))
+        if moviegoer == num_available_seats: 
+            return
+
+
+def calculate_wait_time():
+    average_wait = statistics.mean(wait_times)
+    minutes, frac_minutes = divmod(average_wait, 1)
+    seconds = frac_minutes * 60
+    return round(minutes), round(seconds)
+
+
+def get_user_input():
+    num_cashiers = input('Number of cashiers for the simumlation: ')
+    num_ushers = input('Number of ushers for the simulation: ')
+    num_food_sellers = input('Number of food sellers for the simulation: ')
+    num_busy_hours = input('The time in minutes that we are testing: ')
+    num_available_tickets = input('The available number of tickets for the specified time: ')
+    params = [num_cashiers, num_ushers, num_food_sellers, num_busy_hours, num_available_tickets]
+    if all(str(i).isdigit() for i in params):
+        params = [int(x) for x in params]
+    else:
+        print('Could not parse input. The simulation will use default values:',
+              "\n1 cashier, 1 usher, 1 food seller, 180 minutes, 2000 seats available")
+        params = [1, 1, 1, 180, 2000]
+    return params
+
+
+def main():
+    random.seed(42)
+    num_cashiers, num_ushers, num_food_sellers, busy_hours, num_available_tickets = get_user_input()
+
+    env = simpy.Environment()
+    env.process(run_cinema(env, num_cashiers, num_ushers, num_food_sellers, num_available_tickets))
+    env.run(until=busy_hours)
+
+    mins, secs = calculate_wait_time()
+    print(
+        "Running simulation...",
+        f"\nThe average wait time is {mins} minutes and {secs} seconds.",
+    )
+
+
+if __name__=='__main__':
+    main()
