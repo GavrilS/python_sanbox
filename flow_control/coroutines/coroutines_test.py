@@ -5,18 +5,21 @@ from argparse import ArgumentParser
 
 VALID_TEST_CASES = [
     'single',
-    'continous_coro'
+    'continuous_coro'
 ]
 
 name = 'Initial'
 
 def print_matching_name(sub_name):
     print(f"Searching for names containing: {sub_name}")
-    while True:
-        name = yield
-        if sub_name in name:
-            print(name)
-            break
+    try:
+        while True:
+            name = yield
+            if sub_name in name:
+                print(name)
+                # break
+    except GeneratorExit:
+        print('Closing coroutine!')
 
 
 def single():
@@ -32,12 +35,13 @@ def single():
         coro.send(name)
         name = 'Perseus'
         coro.send(name)
+        coro.close()
     except Exception as e:
         print('Reached the end of the coroutine: ', str(e))
         print('Finished on name: ', name)
 
 
-def continous_coro():
+def continuous_coro():
     global name
     sub_name = input('Give me a name to look for: ')
 
@@ -49,6 +53,7 @@ def continous_coro():
             if name == 'exit':
                 return
             coro.send(name)
+            coro.close()
         except Exception as e:
             print('Found the name we were looking for! ', str(e))
 
