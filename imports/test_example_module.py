@@ -1,3 +1,3 @@
-from example_module.examplemodule import example_print
+from examplemodule.example import example_print
 
 example_print()
