@@ -36,6 +36,9 @@ class EnhancedPed(Pet):
 
     def __repr__(self):
         return f"EnhancedPet('{self.name}', {self.age})"
+    
+    def talk(self):
+        print('Bark bark...')
 
 
 
@@ -49,3 +52,10 @@ if __name__=='__main__':
     print('*'*40)
     print('str(friendly_pet): ', str(friendly_pet))
     print('repr(friendly_pet): ', repr(friendly_pet))
+    print('*'*40)
+    print('friendly_pet.__dict__:', friendly_pet.__dict__)
+    print('list(friendly_pet.__dict__.keys()):', list(friendly_pet.__dict__.keys()))
+    print('dir(friendly_pet):', dir(friendly_pet))
+    print('*'*40)
+    for k, v in friendly_pet.__dict__.items():
+        print(f'{k}: {v}')
