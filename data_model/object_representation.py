@@ -55,6 +55,7 @@ if __name__=='__main__':
     print('*'*40)
     print('friendly_pet.__dict__:', friendly_pet.__dict__)
     print('list(friendly_pet.__dict__.keys()):', list(friendly_pet.__dict__.keys()))
+    print('len(friendly_pet.__dict__.keys()):', len(friendly_pet.__dict__.keys()))
     print('dir(friendly_pet):', dir(friendly_pet))
     print('*'*40)
     for k, v in friendly_pet.__dict__.items():
