@@ -26,9 +26,13 @@ class Pet:
 class EnhancedPed(Pet):
     '''An example using a new class with special methods'''
 
-    def __init__(self, pet_name, pet_age):
+    def __init__(self, pet_name, pet_age, kind='dog'):
         super().__init__(pet_name, pet_age)
+        self._kind = kind
 
+    @property
+    def kind(self):
+        return self._kind
 
     def __str__(self):
         return f"The name of my pet is {self.name} and it is {self.age} years old."
