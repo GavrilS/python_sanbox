@@ -19,3 +19,9 @@ One of the tools that helps you setting up your tests is the 'TestCase' class fr
 3. Assertions
 
 You would use the assert keyword to verify the results of your tested units. There are different tests you can perform with assert, but the most used one is 'assertEqual(param1, param2)', which checks if the 2 paramethers are equal. The 'assertEqual' method is inherited from the 'TestCase' class.
+
+4. Running unit tests
+
+You have multiple ways of running unit tests with the unittest package:
+1) Make the module executable by adding including a check if the name equals main
+2) You can use the command line interface of unittest

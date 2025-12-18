@@ -20,3 +20,17 @@ class TestGetAgeCategory(unittest.TestCase):
 
     def test_age_not_covered(self):
         self.assertEqual(get_age_category(1000), 'Age not covered: 1000')
+
+
+if __name__=='__main__':
+    '''
+    Making the test module executable and running the tests with the unittest main function.
+
+    Params:
+        verbosity:
+            0 -> quiet
+            1 -> normal
+            2 -> detailed
+    '''
+
+    unittest.main(verbosity=1)
