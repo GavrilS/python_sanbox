@@ -22,7 +22,48 @@ The unittest frawemork provides the subtest functionality which allows you to ru
 
 3. Assertions
 
-You would use the assert keyword to verify the results of your tested units. There are different tests you can perform with assert, but the most used one is 'assertEqual(param1, param2)', which checks if the 2 paramethers are equal. The 'assertEqual' method is inherited from the 'TestCase' class.
+You would use the assert keyword to verify the results of your tested units. There are different tests you can perform with assert, but the most used one is 'assertEqual(param1, param2)', which checks if the 2 paramethers are equal. The 'assertEqual' method is inherited from the 'TestCase' class. There is a large number of available assert methods.
+
+3.1. Comparing values:
+.assertEqual(a, b)
+.assertNotEqual(a, b)
+.assertTrue(x)
+.assertFalse(x)
+
+3.2. Comparing objects by their identity:
+.assertIs(a, b)
+.assertIsNot(a, b)
+.assertIsNone(x)
+.assertIsNotNone(x)
+
+3.3. Comparing collections:
+.assertSequenceEqual(a, b)
+.assertMultiLineEqual(a, b)
+.assertListEqual(a, b)
+.assertTupleEqual(a, b)
+.assertDictEqual(a, b)
+.assertSetEqual(a, b)
+
+3.4. Membership tests:
+.assertIn(a, b) -> a in b
+.assertNotIn(a, b)
+
+3.5. Check for object type:
+.assertIsInstance(a, b)
+.assertNotIsInstance(a, b)
+
+3.6. Testing for exceptions:
+.assertRaises(exc, fun, *args, **kwargs) -> fun(*args, **kwargs) raises exc
+.assertRaisesRegex(exc, r, fun, *args, **kwargs) -> fun(*args, **kwargs) raises exc and the message matches regex r
+
+3.7. Warnings and logs:
+.assertWarns(warn, fun, *args, **kwargs) -> fun(*args, **kwargs) raises warn
+.assertWarnsRegex(warn, r, fun, *args, **kwargs) -> fun(*args, **kwargs) raises warn and the message matches regex r
+.assertLogs(logger, level)
+.assertNoLogs(logger, level)
+
+3.8. Using custom assert methods
+
 
 4. Running unit tests
 
