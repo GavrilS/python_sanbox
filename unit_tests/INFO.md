@@ -69,4 +69,13 @@ You would use the assert keyword to verify the results of your tested units. The
 
 You have multiple ways of running unit tests with the unittest package:
 1) Make the module executable by including a check if the name equals main and then running the tests from there
-2) You can use the command line interface of unittest
+
+2) You can use the command line interface of unittest:
+    - you can run entire test modules:
+        python3 -m unittest test_age test_case test_skip_example
+    
+    - you can run the tests from a specific class:
+        python3 -m unittest test_age.TestGetAgeCategory
+    
+    - you can run tests from individual test methods:
+        python3 -m unittest test_age.TestGetAgeCategory.test_child
