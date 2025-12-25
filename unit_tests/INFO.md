@@ -20,6 +20,12 @@ One of the tools that helps you setting up your tests is the 'TestCase' class fr
 
 The unittest frawemork provides the subtest functionality which allows you to run a test with multiple values.
 
+2.2. TestSuite - you can group your tests with the TestSuite class and run them selectively. Usefull for:
+    - complex projects - organize tests in logical groups
+    - different testing levels - group tests according to their level
+    - selective testing
+    - environment specific testing - group tests based on environment or platform
+
 3. Assertions
 
 You would use the assert keyword to verify the results of your tested units. There are different tests you can perform with assert, but the most used one is 'assertEqual(param1, param2)', which checks if the 2 paramethers are equal. The 'assertEqual' method is inherited from the 'TestCase' class. There is a large number of available assert methods.
@@ -68,9 +74,9 @@ You would use the assert keyword to verify the results of your tested units. The
 4. Running unit tests
 
 You have multiple ways of running unit tests with the unittest package:
-1) Make the module executable by including a check if the name equals main and then running the tests from there
+4.1. Make the module executable by including a check if the name equals main and then running the tests from there
 
-2) You can use the command line interface of unittest:
+4.2. You can use the command line interface of unittest:
     - you can run entire test modules:
         python3 -m unittest test_age test_case test_skip_example
     
@@ -79,3 +85,7 @@ You have multiple ways of running unit tests with the unittest package:
     
     - you can run tests from individual test methods:
         python3 -m unittest test_age.TestGetAgeCategory.test_child
+
+4.3. Autodiscovery of tests - you can run the discover command of the unittest CLI to run all classes derived from the TestCase class:
+    python3 -m unittest discover -s '<start_directory>'
+
