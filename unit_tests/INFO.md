@@ -89,3 +89,18 @@ You have multiple ways of running unit tests with the unittest package:
 4.3. Autodiscovery of tests - you can run the discover command of the unittest CLI to run all classes derived from the TestCase class:
     python3 -m unittest discover -s '<start_directory>'
 
+
+5. Test Fixtures
+
+This is a preparation that is run before and after tests to prepare the environment for the tests. The preparation before the tests is known as setup, while the one after the tests is called teardown. Setup is the process of creating connections, bringing up test DBs, creating temporary resources and so on, while teardown is the opposite process of releaseing these temporary connections/resources.
+
+With the unittest framework we can overwrite these methods in our test classes (which extend the TestClass class) to create setups and teardowns for our tests:
+    .setUp() -> an instance method that unittest runs before running each test method in a test case class
+    .tearDown() -> an instance method that unittest runs after each test method in a test case class
+    @classmethod
+    .setUpClass(cls) -> a class method that unittest calls before running the tests in a test case class
+    @classmethod
+    .tearDownClass(cls) -> a class method that unittest calls after running the tests in a test case class
+    .setUpModule() -> runs before all test cases in the containing module
+    .tearDownModule() -> runs after all test cases have run
+
