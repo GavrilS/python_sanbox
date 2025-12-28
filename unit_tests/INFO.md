@@ -104,3 +104,11 @@ With the unittest framework we can overwrite these methods in our test classes (
     .setUpModule() -> runs before all test cases in the containing module
     .tearDownModule() -> runs after all test cases have run
 
+
+6. Mocking objects for tests
+
+Mocking is simply the act to replacing an object under testing. The idea of mocking is that it allows you to instead of calling the database, just return a specific result from the query operation, or to avoid having to make actual API calls to 3rd pardy systems, which might incure additional charges or may not always be in running state and fail your tests.
+
+The unittest framework provides 2 classes to mock objects - Mock and MagicMock. MagicMock is a subclass of Mock with default implementations of most of the magic methods. After performing an action, Mock allows you to make assertions about which methods / attributes have been used and the arguments they were called with. You can also specify return values and set needed attributes as required.
+
+Mock also provides the 'patch()' decorator that handles patching module and class level attributes during the testing.
