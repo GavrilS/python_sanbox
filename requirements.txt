@@ -3,3 +3,4 @@ gitpython
 pyyaml
 simpy
 openpyxl
+pytest
