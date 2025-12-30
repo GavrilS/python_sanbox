@@ -10,6 +10,18 @@ test_, functions starting or ending with test and classes starting with Test):
     pytest
     pytest -vv
     pytest -q
+- run tests in a module:
+    pytest test_module.py
+- run tests in a directory and subdirectories
+    pytest testing/
+- run tests by keyword expression
+    pytest -k 'MyClass and not method'
+- run tests by collection arguments
+    pytest tests/test_module.py::test_function
+    pytest tests/test_module.py::TestClass
+    pytest tests/test_module.py::TestClass:test_method
+- run tests decorated with a mark
+    pytest -m test_mark
 
 Flags:
     -vv -> verbose
