@@ -4,3 +4,4 @@ pyyaml
 simpy
 openpyxl
 pytest
+requests
